@@ -1,3 +1,7 @@
+# Amazon Prime Content Analysis
+# Statistical analysis of content duration vs. type, release year, and rating
+# Author: Sunil Thirumani
+
 # Load required libraries
 library(ggplot2)
 library(dplyr)
